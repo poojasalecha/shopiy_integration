@@ -1,0 +1,7 @@
+*.pyc
+/venv/
+celerybeat.pid
+!**/__init__.py
+env.py
+**/migrations/*.py
+**/migrations/*.pyc
