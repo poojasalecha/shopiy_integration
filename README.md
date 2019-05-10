@@ -22,7 +22,3 @@ Run application locally:
 ```
 python manage.py runserver
 ```
-
-## Locale settings
-
-```
