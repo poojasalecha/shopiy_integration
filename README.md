@@ -1,24 +1,17 @@
-# github_apis
 
-## Installation
+I have used python(2.7) and django framework(1.10)
 
-Install dependencies:
+go to directory and activate virtual environment
 
-```
-pip install -r requirements.txt
+commands:
+	source venv/bin/activate
+	python manage.py runserver
 
-```
-...
-python manage.py makemigrations
 
-or 
+postman link for apis:
+	"https://www.getpostman.com/collections/957d16fa16ee5967d3a5"
 
-```
-python manage.py migrate
-```
 
-Run application locally:
+for laoading dummy products we need to a run a script
 
-```
-python manage.py runserver
-```
+	"python load_dummy_products.py"
